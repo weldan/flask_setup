@@ -1,4 +1,4 @@
-flask_setup
+flask setup
 ===========
 
 script to start new flask project

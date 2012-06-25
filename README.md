@@ -10,6 +10,8 @@ to be use on this environment:
 <li>web server, apache2 with mod_wsgi enabled</li>
 </ol>
 
+it is not required to download this as tarball. you only need makefile. 
+
 usage:
 <ol>
 <li>

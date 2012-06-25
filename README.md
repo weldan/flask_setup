@@ -69,7 +69,7 @@ mkdir /var/www/projectname
 </pre>
 </li>
 <li>
-execute this on project directory
+execute this in project directory
 <pre>
 wget -nc https://raw.github.com/weldan/flask_setup/master/makefile -O ./makefile && make install && . environment/bin/activate && python app.py
 </pre>

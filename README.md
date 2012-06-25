@@ -35,7 +35,7 @@ when executed on first time, it will create these files and directories.
   <tr>
     <td>static</td>
     <td>directory</td>
-    <td>to put static files such as javascript,images, and css files. those files can be put in their respective directory</td>
+    <td>to put static files such as javascript,images, and css files. those files can be put in their respective directory, for example, script.js in static/javascripts and style.css in static/styles</td>
   </tr>  
   <tr>
     <td>database</td>

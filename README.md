@@ -60,7 +60,7 @@ when executed on first time, it will create these files and directories.
 </tbody>
 </table>
 
-<h1>usage</h1>:
+<h1>usage</h1>
 <ol>
 <li>
 create new directory for new project. 

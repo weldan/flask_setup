@@ -27,10 +27,40 @@ when executed on first time, it will create these files and directories.
     <td>directory</td>
     <td>to put virtual environment, required packages, files and folder</td>
   </tr>
+  <tr>
+    <td>templates</td>
+    <td>directory</td>
+    <td>to put html template files</td>
+  </tr>  
+  <tr>
+    <td>static</td>
+    <td>directory</td>
+    <td>to put static files such as javascript,images, and css files. those files can be put in their respective directory</td>
+  </tr>  
+  <tr>
+    <td>database</td>
+    <td>directory</td>
+    <td>to put sqlite database file, if needed</td>
+  </tr>  
+  <tr>
+    <td>schema</td>
+    <td>directory</td>
+    <td>to put sql files</td>
+  </tr>  
+  <tr>
+    <td>wsgi</td>
+    <td>directory</td>
+    <td>to put wsgi file</td>
+  </tr>  
+  <tr>
+    <td>app.py</td>
+    <td>python script file</td>
+    <td>application skeleton file</td>
+  </tr>  
 </tbody>
 </table>
 
-usage:
+<h1>usage</h1>:
 <ol>
 <li>
 create new directory for new project. 
@@ -49,10 +79,6 @@ open http://127.0.0.1:5000 through web browser and see this text: 'Hrllo' , to e
 </li>
 </ol>
 
-<em>
-#####
-TODO
-#####
+<h1>TODO</h1>
 1. wsgi file example
 2. apache vhost file example
-</em>

@@ -37,5 +37,4 @@ TODO
 #####
 1. wsgi file example
 2. apache vhost file example
-3. base template and anything related
 </em>

@@ -4,9 +4,11 @@ flask_setup
 my set of script to start new flask project
 
 to be use on this environment:
-1. os, debian/ubuntu
-2. python 2.5 or later
-3. web server, apache2 with mod_wsgi enabled
+<ol>
+<li>os, debian/ubuntu</li>
+<li>python 2.5 or later</li>
+<li>web server, apache2 with mod_wsgi enabled</li>
+</ol>
 
 usage:
 

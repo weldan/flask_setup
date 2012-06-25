@@ -1,5 +1,6 @@
 flask setup
 ===========
+http://weldan.github.com/flask_setup 
 
 script to start new flask project
 

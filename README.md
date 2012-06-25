@@ -12,6 +12,24 @@ to be use on this environment:
 
 it is not required to download this as tarball. you only need makefile. 
 
+when executed on first time, it will create these files and directories. 
+<table>
+<thead>
+  <tr>
+    <th>Name</th>
+    <th>Type</th>
+    <th>Purpose</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>environment</td>
+    <td>directory</td>
+    <td>to put virtual environment, required packages, files and folder</td>
+  </tr>
+</tbody>
+</table>
+
 usage:
 <ol>
 <li>

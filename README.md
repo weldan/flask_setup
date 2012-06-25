@@ -1,7 +1,7 @@
 flask_setup
 ===========
 
-my set of script to start new flask project
+script to start new flask project
 
 to be use on this environment:
 <ol>

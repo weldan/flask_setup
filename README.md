@@ -77,6 +77,12 @@ wget -nc https://raw.github.com/weldan/flask_setup/master/makefile -O ./makefile
 <li>
 open http://127.0.0.1:5000 through web browser and see this text: 'Hrllo' , to ensure installation process is a success 
 </li>
+<li>
+you can remove all these files with `make clean`
+</li>
+<li>
+you can reinstall with `make refresh`
+</li>
 </ol>
 
 <h1>TODO</h1>

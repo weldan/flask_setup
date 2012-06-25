@@ -3,7 +3,7 @@ flask_setup
 
 script to start new flask project
 
-to be use on this environment:
+to be use with:
 <ol>
 <li>os, debian/ubuntu</li>
 <li>python 2.5 or later</li>
@@ -11,6 +11,11 @@ to be use on this environment:
 </ol>
 
 it is not required to download this as tarball. you only need makefile. 
+
+it basically install flask microframework with peewee orm support.
+
+visit this url if you need more information:
+http://flask-peewee.readthedocs.org/en/latest/getting-started.html
 
 when executed on first time, it will create these files and directories. 
 <table>

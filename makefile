@@ -11,7 +11,7 @@ install:
 	wget -nc https://raw.github.com/weldan/flask_setup/master/app.py -O ./app.py
 	virtualenv environment
 	environment/bin/pip install flask-peewee
-
+	environment/bin/pip freeze > requirements.txt
 refresh: clean install
 
 clean:

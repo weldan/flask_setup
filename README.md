@@ -63,6 +63,11 @@ when executed on first time, it will create these files and directories.
     <td>python script file</td>
     <td>application skeleton file</td>
   </tr>  
+  <tr>
+    <td>requirements.txt</td>
+    <td>text file</td>
+    <td>required applications for your app, to be use later</td>
+  </tr>  
 </tbody>
 </table>
 
